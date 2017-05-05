@@ -2,7 +2,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn import cross_validation
 import numpy as np
 import sys
-
+ 
 # Load the training data into lists
 f = open("train_data.txt")
 f1=open("train_label.txt")
