@@ -32,4 +32,3 @@ sys.stdout=open("test_label_decTree.txt","w")
 a=clf.predict(T)
 for elem in a:
     print int(elem)
-
