@@ -33,4 +33,4 @@ sys.stdout=open("test_label_kNN.txt","w")
 # Predict the labels of the test data
 a=nbrs.predict(T)
 for elem in a:
-    print int(elem)
+    print int(elem) 
