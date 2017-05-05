@@ -1,6 +1,6 @@
 # Classification of a biomedical dataset to predict human diseases
 
-## Objective: To predict whether the patient has a particular disease
+### Objective: To predict whether the patient has a particular disease based on a feature set
 
 ### Dataset Description: 
 1. The dataset contains 19 features which are extracted from an image set to predict whether that image contains the signs of a disease or not
