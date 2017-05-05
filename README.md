@@ -24,8 +24,8 @@
 2. 231 testing samples 
 
 ### Label description 
-1. +1 corresponds to having a disease
-2. -1 corresponds to not having a disease
+1. 1 corresponds to having a disease
+2. 0 corresponds to not having a disease
 
 ## Results: 
 
