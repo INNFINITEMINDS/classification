@@ -1,5 +1,7 @@
 # Classification of a biomedical dataset to predict human diseases
 
+## Objective: To predict whether the patient has a particular disease
+
 ### Dataset Description: 
 1. The dataset contains 19 features which are extracted from an image set to predict whether that image contains the signs of a disease or not
 2. Each row corresponds to a patient's eye image
@@ -36,4 +38,4 @@
 |       Random Forest      |   72.17%  |
 |    Logistic Regression   |   75.21%  |
 
-Logistic regression turns out to provide the highest accuracy for this dataset i. e. 75.21%
+Logistic regression turns out to provide the highest accuracy to predict whether the patient has the disease or not i. e. 75.21%
