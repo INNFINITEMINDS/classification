@@ -24,7 +24,7 @@ g = BernoulliNB()
 model = g.fit(X_train,y_train)
 
 # Print the accuracy of the model
-print 'Accuracy: ', model.score(X_test,y_test)
+print 'Accuracy: ', model.score(X_test,y_test)*100
 
 # Print the predicted  labels of the test data into a file
 sys.stdout = open("test_label_NaiveBayes.txt","w")
