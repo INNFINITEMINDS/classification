@@ -31,4 +31,4 @@ sys.stdout=open("test_label_LR.txt", "w")
 # Predict the labels of the test data
 a=clf.predict(T)
 for elem in a:
-    print int(elem)
+    print int(elem) 
